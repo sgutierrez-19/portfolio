@@ -12,6 +12,10 @@ body {
   color: #868e96;
 }
 
+.portfolio-row {
+  margin-bottom: 5px !important;
+  margin-top: 5px !important;
+}
 .portfolio-banner {
   width: 100%;
   background-color: #bd5d38 !important;
@@ -20,6 +24,9 @@ body {
   border: 0.5rem solid rgba(224, 21, 21, 0.925);
 }
 
+.portfolio-img {
+  border: 5px solid black !important;
+}
 @media (min-width: 992px) {
   body {
     padding-top: 0;
